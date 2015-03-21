@@ -1,4 +1,0 @@
-# reflections
-Udacity
-
-(master)
