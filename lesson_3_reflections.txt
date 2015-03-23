@@ -18,3 +18,8 @@
    off of existing code but leave every thing in place and go a different
    direction.
    
+4. What is the benefit of having a copy of the last known state of the
+   remote stored locally?
+   This is good in cases when you have no internet, but also, when collaborating, to make sure that you're working from a conflict-free
+   version of the code. Once somone else introduces code, it could possibly conflict with the local copy.
+   
