@@ -9,3 +9,12 @@
    It's better to decide when to pull since you may be working on changes
    that could be interrupted by older/newer code from a remote repository.
 
+3. Describe the differences between forks, clones, and branches. When would
+   you use one instead of another?
+   Forks are used to work off of someone else's code when you don't have
+   permission to change the original. Clones are used to work off of your
+   own code locally (although you could do this with someone else's code
+   but it wouldn't give them credit). Branches are used when we want to work
+   off of existing code but leave every thing in place and go a different
+   direction.
+   
