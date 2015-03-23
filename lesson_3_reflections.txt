@@ -31,3 +31,11 @@
    difficult to work remotely. I imagine everyone would need to work at the
    same time from the same location so that someone could oversee changes
    and conflicts.
+
+6. When would you want to make changes in a separate branch rather than 
+   directly in master? What benefits does each approach have?
+   If you didn't create the master, you'd definitely want to start a branch
+   instead of interrupting what the owner of the original code is working
+   on. The benefit is that you can examine all the code using pull requests
+   before merging it.
+
